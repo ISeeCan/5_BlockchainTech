@@ -1,0 +1,4 @@
+curl https://blockstream.info/api/tx/6dcc37358d08b6adee18deb22f037326b5e659c2030189fbf774344c9fb39152/status
+
+curl http://blockstream.info/api/tx/6dcc37358d08b6adee18deb22f037326b5e659c2030189fbf774344c9fb39152/status
+
